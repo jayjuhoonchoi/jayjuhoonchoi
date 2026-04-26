@@ -2,7 +2,19 @@
 
 Infrastructure engineer who builds things that don't break at 3am.
 
-Previously ran a martial arts gym for 4 years — learned more about systems reliability from that than any textbook.
+Most engineers learn reliability from textbooks. I learned it from 12 years of getting choked out.
+
+---
+
+## 🥋 Background
+
+- BJJ Black Belt — 12 years training, currently coach (Wrestling & Grappling)
+- B.S. Sport Science, University of Seoul, 2021
+- 4 years running Grappling Lounge — built it from zero to 100+ active members
+- Former engineer at Drax (AI fitness tech) — built data pipelines for a system that auto-generates daily workout programs from 1RM measurements, equipment calibration, and real-time velocity-based load adjustment
+
+I've operated businesses where downtime meant losing customers in real life.
+That perspective is why I think about uptime, monitoring, and reliability before features.
 
 ---
 
@@ -17,12 +29,14 @@ Previously ran a martial arts gym for 4 years — learned more about systems rel
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
 ## 🚀 Featured Project
 
-Fitlio — Production SaaS for sports facility management
+ Fitlio — Production SaaS for sports facility management
 
 Built and deployed a full SaaS platform currently running at a real gym in Seoul.
 Not a tutorial. Not a clone. A system that actual people use every day.
@@ -33,6 +47,7 @@ Not a tutorial. Not a clone. A system that actual people use every day.
 - Trivy security scan → 0 CRITICAL, 0 HIGH, 0 MEDIUM
 - SSL auto-renewal → certbot hooks, no manual intervention
 - Membership, booking, attendance, admin dashboard
+- International support → 20 countries, KR/EN switch
 
 🌐 [fitlio-jay.duckdns.org](https://fitlio-jay.duckdns.org)
 📁 [github.com/jayjuhoonchoi/fitlio](https://github.com/jayjuhoonchoi/fitlio)
